@@ -1,3 +1,9 @@
+# customize
+devel/
+build/
+logs/
+.catkin_tools
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
